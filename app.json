@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/ramadhani892/3-BUTTONS",
+  "repository": "https://github.com/lonely011/6BUTTON",
   "logo": "https://telegra.ph/file/9e1ccb4c62cf8375545d0.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "thisrama"
+      "value": "xy"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "910766621"
+      "value": "01××"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
@@ -47,11 +47,11 @@
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-100"
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "0"
+      "value": "-100"
     },
     "FORCE_SUB_GROUP2": {
       "description": "Masukan ID Group / Channel Untuk Wajib Subscribe, Bila Ga kepake isi 0",
